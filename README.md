@@ -27,5 +27,4 @@ npm install
 npm start
 ```
 
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/).
-
+The ```npm start``` start a livereloading to thanks to [electron-connect](https://www.npmjs.com/package/electron-connect) 
